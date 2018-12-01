@@ -25,9 +25,9 @@ SECRET_KEY = 'qz%_ir)1khas+&5kdxs)09ie&=rg^87u$*g%$c&t_h7@oed)db'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+#ALLOWED_HOSTS = []
+
 ALLOWED_HOSTS = ['django424.herokuapp.com']
-
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -120,8 +120,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/1.9/howto/static-files/
 STATIC_ROOT = os.path.join((BASE_DIR), 'static')
 STATIC_URL = '/static/'
