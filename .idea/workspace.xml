@@ -72,14 +72,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Procfile" value="70" />
-          <entry key="py" value="96" />
+          <entry key="Procfile" value="81" />
+          <entry key="py" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="70" />
-          <entry key="Python" value="96" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Python" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -98,11 +98,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -112,11 +112,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helloapp/helloapp/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="71" column="33" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="33" />
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -152,8 +152,8 @@
       <list>
         <option value="$PROJECT_DIR$/helloapp/manage.py" />
         <option value="$PROJECT_DIR$/helloapp/helloapp/wsgi.py" />
-        <option value="$PROJECT_DIR$/helloapp/helloapp/settings.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/helloapp/helloapp/settings.py" />
       </list>
     </option>
   </component>
@@ -368,6 +368,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/helloapp/helloapp/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -381,14 +388,7 @@
     <entry file="file://$PROJECT_DIR$/helloapp/helloapp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="71" column="33" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
         </state>
       </provider>
     </entry>
